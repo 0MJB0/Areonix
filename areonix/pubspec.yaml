@@ -1,0 +1,82 @@
+name: areonix
+description: "A new Flutter project."
+
+publish_to: 'none' 
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.4.3 <4.0.0'
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# Core 
+  equatable: ^2.0.5
+  responsive_sizer: ^3.3.1    
+  kartal: ^4.0.4    
+
+# Firebase
+  cloud_firestore: ^5.1.0
+  firebase_core: ^3.3.0  
+  firebase_auth: ^5.1.2
+  firebase_storage: ^12.1.1
+  firebase_database: ^11.0.4
+
+  # State Management
+  flutter_riverpod: ^2.5.1
+
+  # Network
+  http: ^1.2.2
+
+  # Caching
+  shared_preferences: ^2.3.1
+
+  # UI
+  animated_text_kit: ^4.2.2
+  carousel_slider: ^5.0.0  
+  card_stack_widget: ^0.1.5
+  expansion_tile_list: ^0.1.1
+  expansion_tile_group: ^2.0.0
+  drop_down_search_field: ^1.0.4
+  dropdown_search: ^6.0.0
+  searchable_paginated_dropdown: ^1.3.0
+  smooth_page_indicator: ^1.2.0+3
+  horizontal_card_pager: ^1.1.1
+
+  # Utility
+  image_picker: ^1.1.2
+  lottie: ^3.1.2
+  intl: ^0.19.0
+  device_preview: ^1.2.0
+
+  cupertino_icons: ^1.0.8
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  very_good_analysis: ^6.0.0
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets: 
+    - assets/icon/
+    - assets/image/
+    - assets/lottie/
+    - assets/logo/
+
+
+  fonts:
+    - family: Poppins
+      fonts:
+        - asset: assets\font\Poppins-Bold.ttf
+        - asset: assets\font\Poppins-Regular.ttf
+          weight: 700
+    

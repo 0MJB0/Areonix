@@ -1,0 +1,10 @@
+export 'diet_client/index.dart';
+export 'diet_weekly_client/index.dart';
+export 'form_client/index.dart';
+export 'home_client/index.dart';
+export 'personal_client/index.dart';
+export 'profile_client/index.dart';
+export 'register_client/index.dart';
+export 'report_client/index.dart';
+export 'splash_client/index.dart';
+export 'tab_client/index.dart';

@@ -1,0 +1,9 @@
+export 'common_texts/animated_text.dart';
+export 'common_texts/card_text.dart';
+export 'mobile_texts/appbar_text.dart';
+export 'mobile_texts/bold_text.dart';
+export 'mobile_texts/dropdown_text.dart';
+export 'mobile_texts/normal_text.dart';
+export 'mobile_texts/subtitle_text.dart';
+export 'web_texts/web_appbar_text.dart';
+export 'web_texts/web_text.dart';

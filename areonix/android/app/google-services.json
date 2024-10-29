@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "950499379321",
+    "project_id": "areonix-91035",
+    "storage_bucket": "areonix-91035.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:950499379321:android:3d8cef34bdc7ac27f3aca8",
+        "android_client_info": {
+          "package_name": "com.areonix.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMR6U3HAE8KYlbwoWJXIfRaC4Ic_3o68g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
